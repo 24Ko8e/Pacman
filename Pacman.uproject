@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{D8591E72-4FCD-DA80-0684-3E94D3C82ABE}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Pacman",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
